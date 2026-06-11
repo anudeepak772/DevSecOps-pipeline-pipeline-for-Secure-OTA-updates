@@ -1,0 +1,15 @@
+1)What are we doing?
+-Monitoring Vehicle to vehicle and V2X communcations for any malicious attacks. Standard iso21434 is paid
+
+-Speeding up the rollout of new updates with SecureDevOps for 
+step by step deployment.
+
+2)How do they communicate
+-standard protocols by iso ,etc.
+
+
+3) what type of information are we encrypting and what is the encryption lvl for each?
+
+
+4) what device is widely used for communication?
+-Telemetry control unit

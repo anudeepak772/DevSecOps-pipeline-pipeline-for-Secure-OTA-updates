@@ -1,0 +1,1 @@
+1) Encrypted Data Transfer- The Onboarding unit must fulfill mandatory standards for data encoding and decoding as referenced in documents like ETSI TS 102 637-2 for regular messages and ETSI TS 102 637-3 for urgent event driven messages.

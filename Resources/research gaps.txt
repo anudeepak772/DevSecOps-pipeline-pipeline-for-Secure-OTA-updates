@@ -1,0 +1,2 @@
+Physical Layer Metadata Hijacking
+Vehicle to Vehicle communication, remains vulnerable to monitoring by unauthorized systems at the physical layer, leaking information like signal strength that can be used to discern the location of the transmitter, as existing encryption practices are happening at the application layer.
